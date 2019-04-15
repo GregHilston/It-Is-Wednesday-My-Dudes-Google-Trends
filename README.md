@@ -8,7 +8,7 @@ take a look at [this](http://knowyourmeme.com/memes/it-is-wednesday-my-dudes) li
 
 > Can one determine it is Wednesday, based purely on the number of times someone looks up this meme
 
-I was able to fetch the data from Google Trends](https://trends.google.com/trends) and created a basic box-and-whisker plot for each day of the week, aggregated, since the inception of the meme.  
+I was able to fetch the data from [Google Trends](https://trends.google.com/trends) and created a basic box-and-whisker plot for each day of the week, aggregated, since the inception of the meme.  
 
 ![output.png](output.png)
 
